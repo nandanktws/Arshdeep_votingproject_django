@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Patrick+Hand');
+h1 {
+    font-family: 'EB Garamond', serif;
+}
+
+#demo {
+    font-family: 'EB Garamond', serif;
+    font-family: 'Patrick Hand', cursive;
+}
